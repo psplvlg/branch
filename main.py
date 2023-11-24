@@ -14,5 +14,9 @@ def second_function():
     print(": )")
 
 
+def print_one():
+    print("one")
+
+
 if __name__ == '__main__':
     main()
