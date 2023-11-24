@@ -11,7 +11,7 @@ def main():
 
 
 def second_function():
-    print(": )")
+    print("Yandex Lyceum")
 
 
 if __name__ == '__main__':
