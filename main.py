@@ -10,5 +10,9 @@ def main():
     my_superfunction()
 
 
+def second_function():
+    print(": )")
+
+
 if __name__ == '__main__':
     main()
