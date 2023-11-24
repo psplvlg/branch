@@ -11,7 +11,7 @@ def main():
 
 
 def second_function():
-    print(": )")
+    print("Happy New Year!")
 
 
 if __name__ == '__main__':
